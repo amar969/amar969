@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋 I'm Amarjeet 👨‍💻</h2>
+
+<div align="center">
+<p>🌱 I am a Full Stack Developer recently graduated from Masai school and looking for a career as a Full Stack Developer.</p>
+
+⚡ I am interested in creating well designed or pixel-perfect Frontend with functionality and take on new challenges where I can learn more about web technologies.
+
+<p>📫 How to reach me:<p>
+<a href="https://www.linkedin.com/in/amarjeet-maurya-41ab50137/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a><a href = "mailto:amar.mau96@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+</div>
+
 
 <!--
 **amar969/amar969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
