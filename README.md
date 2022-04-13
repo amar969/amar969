@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarjeet Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img width="400" height="400;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="working" />
+<img align="left" width="400" height="400;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="working" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar969&label=Profile%20views&color=0e75b6&style=flat" alt="amar969" /> </p>
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **amar.mau96@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LFTnWb3XSBLrBV-Ggpejq_s6c6wXNUIu/view?usp=sharing](https://drive.google.com/file/d/1LFTnWb3XSBLrBV-Ggpejq_s6c6wXNUIu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
