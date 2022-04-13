@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarjeet Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img width="400" height="250;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="working" />
+<img width="400" height="400;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="working" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amar969&label=Profile%20views&color=0e75b6&style=flat" alt="amar969" /> </p>
 
@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **React JS, Vue JS**
 
 - 👨‍💻 All of my projects are available at [https://mramarportfolio.netlify.app/](https://mramarportfolio.netlify.app/)
-
-- 📝 I regularly write articles on [http://bharatinnovation.blogspot.com/2018/03/bharat-innovations.html](http://bharatinnovation.blogspot.com/2018/03/bharat-innovations.html)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
