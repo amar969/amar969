@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS, Vue JS**
 
-- 👨‍💻 All of my projects are available at [https://mramarportfolio.netlify.app/](https://mramarportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mramarmaurya.netlify.app](https://mramarmaurya.netlify.app)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
